@@ -1,4 +1,4 @@
-# 💰 Expense Tracker App (White & Grey Theme)
+# Expense Tracker App
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey?logo=python)
@@ -10,16 +10,14 @@ Designed with a **clean white & grey UI**, this app helps you add, delete, and v
 
 ---
 
-### ✨ Features
-✅ Add new expenses with date, category, amount & note  
-✅ Delete selected expenses easily  
-✅ Auto-calculates total expense  
-✅ Data stored in `expenses.csv` (auto-created)  
-✅ Clean **white & grey** theme for a professional look  
-
+# Features
+- Add new expenses with date, category, amount & note  
+-  Delete selected expenses easily  
+-  Auto-calculates total expense  
+-  Data stored in `expenses.csv` (auto-created)  
 ---
 
-### ⚙️ Setup (for reference)
+# setup (for reference)
 If someone wants to run this project:
 ```bash
 pip install pandas
@@ -28,7 +26,7 @@ python expense_tracker.py
 
 ---
 
-### 📂 Project Structure
+# Project Structure
 ```
 expense_tracker/
 ├── expense_tracker.py      # Main app
@@ -39,11 +37,10 @@ expense_tracker/
 
 ---
 
-### 📜 License
+# License
 This project is licensed under the **MIT License** — see the LICENSE file for details.
 
 ---
 
-### ❤️ Author
-**Developed by:** Ramya D  
-🗓️ *Created using ChatGPT (GPT-5) – October 2025*
+# Author
+**Developed by:** Ramya Deenadayalan
